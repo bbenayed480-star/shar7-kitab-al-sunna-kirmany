@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>شرح السنة للكرماني</title>
+    <description>شرح السنة للكرماني - الشيخ شكري بن عثمان. 49 حلقة كاملة.</description>
+    <link>https://archive.org/details/01_20200318_20200318_1549</link>
+    <language>ar</language>
+    <itunes:author>الشيخ شكري بن عثمان</itunes:author>
+    <itunes:summary>شرح السنة للكرماني - الشيخ شكري بن عثمان. 49 حلقة كاملة.</itunes:summary>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Islam"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>serial</itunes:type>
+    <image>
+      <url>https://archive.org/services/img/01_20200318_20200318_1549</url>
+      <title>شرح السنة للكرماني</title>
+      <link>https://archive.org/details/01_20200318_20200318_1549</link>
+    </image>
+    <itunes:image href="https://archive.org/services/img/01_20200318_20200318_1549"/>
+
+    <item>
+      <title>شرح السنة للكرماني 01</title>
+      <description>الحلقة 1 من شرح السنة للكرماني - الشيخ شكري بن عثمان</description>
+      <enclosure url="https://archive.org/download/01_20200318_20200318_1549/%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%D8%B3%D9%86%D8%A9%20%D9%84%D9%84%D9%83%D8%B1%D9%85%D8%A7%D9%86%D9%8A%2001.mp3" length="87870668" type="audio/mpeg"/>
+      <guid isPermaLink="false">01_20200318_20200318_1549-ep01</guid>
+      <pubDate>Wed, 18 Mar 2020 12:00:00 +0000</pubDate>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>شرح السنة للكرماني 02</title>
+      <description>الحلقة 2 من شرح السنة للكرماني - الشيخ شكري بن عثمان</description>
+      <enclosure url="https://archive.org/download/01_20200318_20200318_1549/%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%D8%B3%D9%86%D8%A9%20%D9%84%D9%84%D9%83%D8%B1%D9%85%D8%A7%D9%86%D9%8A%2002.mp3" length="78957772" type="audio/mpeg"/>
+      <guid isPermaLink="false">01_20200318_20200318_1549-ep02</guid>
+      <pubDate>Thu, 19 Mar 2020 12:00:00 +0000</pubDate>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>شرح السنة للكرماني 03</title>
+      <description>الحلقة 3 من شرح السنة للكرماني - الشيخ شكري بن عثمان</description>
+      <enclosure url="https://archive.org/download/01_20200318_20200318_1549/%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%D8%B3%D9%86%D8%A9%20%D9%84%D9%84%D9%83%D8%B1%D9%85%D8%A7%D9%86%D9%8A%2003.mp3" length="90492108" type="audio/mpeg"/>
+      <guid isPermaLink="false">01_20200318_20200318_1549-ep03</guid>
+      <pubDate>Fri, 20 Mar 2020 12:00:00 +0000</pubDate>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>شرح السنة للكرماني 04</title>
+      <description>الحلقة 4 من شرح السنة للكرماني - الشيخ شكري بن عثمان</description>
+      <enclosure url="https://archive.org/download/01_20200318_20200318_1549/%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%D8%B3%D9%86%D8%A9%20%D9%84%D9%84%D9%83%D8%B1%D9%85%D8%A7%D9%86%D9%8A%2004.mp3" length="73924608" type="audio/mpeg"/>
+      <guid isPermaLink="false">01_20200318_20200318_1549-ep04</guid>
+      <pubDate>Sat, 21 Mar 2020 12:00:00 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>شرح السنة للكرماني 05</title>
+      <description>الحلقة 5 من شرح السنة للكرماني - الشيخ شكري بن عثمان</description>
+      <enclosure url="https://archive.org/download/01_20200318_20200318_1549/%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%D8%B3%D9%86%D8%A9%20%D9%84%D9%84%D9%83%D8%B1%D9%85%D8%A7%D9%86%D9%8A%2005.mp3" length="73714892" type="audio/mpeg"/>
+      <guid isPermaLink="false">01_20200318_20200318_1549-ep05</guid>
+      <pubDate>Sun, 22 Mar 2020 12:00:00 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>شرح السنة للكرماني 06</title>
+      <description>الحلقة 6 من شرح السنة للكرماني - الشيخ شكري بن عثمان</description>
+      <enclosure url="https://archive.org/download/01_20200318_20200318_1549/%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%D8%B3%D9%86%D8%A9%20%D9%84%D9%84%D9%83%D8%B1%D9%85%D8%A7%D9%86%D9%8A%2006.mp3" length="62075699" type="audio/mpeg"/>
+      <guid isPermaLink="false">01_20200318_20200318_1549-ep06</guid>
+      <pubDate>Mon, 23 Mar 2020 12:00:00 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>شرح السنة للكرماني 07</title>
+      <description>الحلقة 7 من شرح السنة للكرماني - الشيخ شكري بن عثمان</description>
+      <enclosure url="https://archive.org/download/01_20200318_20200318_1549/%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%D8%B3%D9%86%D8%A9%20%D9%84%D9%84%D9%83%D8%B1%D9%85%D8%A7%D9%86%D9%8A%2007.mp3" length="68891443" type="audio/mpeg"/>
+      <guid isPermaLink="false">01_20200318_20200318_1549-ep07</guid>
+      <pubDate>Tue, 24 Mar 2020 12:00:00 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>شرح السنة للكرماني 08</title>
+      <description>الحلقة 8 من شرح السنة للكرماني - الشيخ شكري بن عثمان</description>
+      <enclosure url="https://archive.org/download/01_20200318_20200318_1549/%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%D8%B3%D9%86%D8%A9%20%D9%84%D9%84%D9%83%D8%B1%D9%85%D8%A7%D9%86%D9%8A%2008.mp3" length="67004006" type="audio/mpeg"/>
+      <guid isPermaLink="false">01_20200318_20200318_1549-ep08</guid>
+      <pubDate>Wed, 25 Mar 2020 12:00:00 +0000</pubDate>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>شرح السنة للكرماني 09</title>
+      <description>الحلقة 9 من شرح السنة للكرماني - الشيخ شكري بن عثمان</description>
+      <enclosure url="https://archive.org/download/01_20200318_20200318_1549/%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%D8%B3%D9%86%D8%A9%20%D9%84%D9%84%D9%83%D8%B1%D9%85%D8%A7%D9%86%D9%8A%2009.mp3" length="73610035" type="audio/mpeg"/>
+      <guid isPermaLink="false">01_20200318_20200318_1549-ep09</guid>
+      <pubDate>Thu, 26 Mar 2020 12:00:00 +0000</pubDate>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>شرح السنة للكرماني 10</title>
+      <description>الحلقة 10 من شرح السنة للكرماني - الشيخ شكري بن عثمان</description>
+      <enclosure url="https://archive.org/download/01_20200318_20200318_1549/%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%D8%B3%D9%86%D8%A9%20%D9%84%D9%84%D9%83%D8%B1%D9%85%D8%A7%D9%86%D9%8A%2010.mp3" length="52009369" type="audio/mpeg"/>
+      <guid isPermaLink="false">01_20200318_20200318_1549-ep10</guid>
+      <pubDate>Fri, 27 Mar 2020 12:00:00 +0000</pubDate>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>شرح السنة للكرماني 11</title>
+      <description>الحلقة 11 من شرح السنة للكرماني - الشيخ شكري بن عثمان</description>
+      <enclosure url="https://archive.org/download/01_20200318_20200318_1549/%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%D8%B3%D9%86%D8%A9%20%D9%84%D9%84%D9%83%D8%B1%D9%85%D8%A7%D9%86%D9%8A%2011.mp3" length="66689433" type="audio/mpeg"/>
+      <guid isPermaLink="false">01_20200318_20200318_1549-ep11</guid>
+      <pubDate>Sat, 28 Mar 2020 12:00:00 +0000</pubDate>
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>شرح السنة للكرماني 12</title>
+      <description>الحلقة 12 من شرح السنة للكرماني - الشيخ شكري بن عثمان</description>
+      <enclosure url="https://archive.org/download/01_20200318_20200318_1549/%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%D8%B3%D9%86%D8%A9%20%D9%84%D9%84%D9%83%D8%B1%D9%85%D8%A7%D9%86%D9%8A%2012.mp3" length="63543705" type="audio/mpeg"/>
+      <guid isPermaLink="false">01_20200318_20200318_1549-ep12</guid>
+      <pubDate>Sun, 29 Mar 2020 12:00:00 +0000</pubDate>
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>شرح السنة للكرماني 13</title>
+      <description>الحلقة 13 من شرح السنة للكرماني - الشيخ شكري بن عثمان</description>
+      <enclosure url="https://archive.org/download/01_20200318_20200318_1549/%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%D8%B3%D9%86%D8%A9%20%D9%84%D9%84%D9%83%D8%B1%D9%85%D8%A7%D9%86%D9%8A%2013.mp3" length="74448896" type="audio/mpeg"/>
+      <guid isPermaLink="false">01_20200318_20200318_1549-ep13</guid>
+      <pubDate>Mon, 30 Mar 2020 12:00:00 +0000</pubDate>
+      <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>شرح السنة للكرماني 14</title>
+      <description>الحلقة 14 من شرح السنة للكرماني - الشيخ شكري بن عثمان</description>
+      <enclosure url="https://archive.org/download/01_20200318_20200318_1549/%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%D8%B3%D9%86%D8%A9%20%D9%84%D9%84%D9%83%D8%B1%D9%85%D8%A7%D9%86%D9%8A%2014.mp3" length="42677043" type="audio/mpeg"/>
+      <guid isPermaLink="false">01_20200318_20200318_1549-ep14</guid>
+      <pubDate>Tue, 31 Mar 2020 12:00:00 +0000</pubDate>
+      <itunes:episode>14</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>شرح السنة للكرماني 15</title>
+      <description>الحلقة 15 من شرح السنة للكرماني - الشيخ شكري بن عثمان</description>
+      <enclosure url="https://archive.org/download/01_20200318_20200318_1549/%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%D8%B3%D9%86%D8%A9%20%D9%84%D9%84%D9%83%D8%B1%D9%85%D8%A7%D9%86%D9%8A%2015.mp3" length="70044876" type="audio/mpeg"/>
+      <guid isPermaLink="false">01_20200318_20200318_1549-ep15</guid>
+      <pubDate>Wed, 01 Apr 2020 12:00:00 +0000</pubDate>
+      <itunes:episode>15</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>شرح كتاب السنة للكرماني 16</title>
+      <description>الحلقة 16 من شرح السنة للكرماني - الشيخ شكري بن عثمان</description>
+      <enclosure url="https://archive.org/download/01_20200318_20200318_1549/%D8%B4%D8%B1%D8%AD%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B3%D9%86%D8%A9%20%D9%84%D9%84%D9%83%D8%B1%D9%85%D8%A7%D9%86%D9%8A%2016.mp3" length="55259955" type="audio/mpeg"/>
+      <guid isPermaLink="false">01_20200318_20200318_1549-ep16</guid>
+      <pubDate>Thu, 02 Apr 2020 12:00:00 +0000</pubDate>
+      <itunes:episode>16</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>شرح كتاب السنة للكرماني 17</title>
+      <description>الحلقة 17 من شرح السنة للكرماني - الشيخ شكري بن عثمان</description>
+      <enclosure url="https://archive.org/download/01_20200318_20200318_1549/%D8%B4%D8%B1%D8%AD%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B3%D9%86%D8%A9%20%D9%84%D9%84%D9%83%D8%B1%D9%85%D8%A7%D9%86%D9%8A%2017.mp3" length="49597644" type="audio/mpeg"/>
+      <guid isPermaLink="false">01_20200318_20200318_1549-ep17</guid>
+      <pubDate>Fri, 03 Apr 2020 12:00:00 +0000</pubDate>
+      <itunes:episode>17</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>شرح كتاب السنة للكرماني 18</title>
+      <description>الحلقة 18 من شرح السنة للكرماني - الشيخ شكري بن عثمان</description>
+      <enclosure url="https://archive.org/download/01_20200318_20200318_1549/%D8%B4%D8%B1%D8%AD%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B3%D9%86%D8%A9%20%D9%84%D9%84%D9%83%D8%B1%D9%85%D8%A7%D9%86%D9%8A%2018.mp3" length="69310873" type="audio/mpeg"/>
+      <guid isPermaLink="false">01_20200318_20200318_1549-ep18</guid>
+      <pubDate>Sat, 04 Apr 2020 12:00:00 +0000</pubDate>
+      <itunes:episode>18</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>شرح كتاب السنة للكرماني 19</title>
+      <description>الحلقة 19 من شرح السنة للكرماني - الشيخ شكري بن عثمان</description>
+      <enclosure url="https://archive.org/download/01_20200318_20200318_1549/%D8%B4%D8%B1%D8%AD%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B3%D9%86%D8%A9%20%D9%84%D9%84%D9%83%D8%B1%D9%85%D8%A7%D9%86%D9%8A%2019.mp3" length="39321600" type="audio/mpeg"/>
+      <guid isPermaLink="false">01_20200318_20200318_1549-ep19</guid>
+      <pubDate>Sun, 05 Apr 2020 12:00:00 +0000</pubDate>
+      <itunes:episode>19</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>شرح كتاب السنة للكرماني 20</title>
+      <description>الحلقة 20 من شرح السنة للكرماني - الشيخ شكري بن عثمان</description>
+      <enclosure url="https://archive.org/download/01_20200318_20200318_1549/%D8%B4%D8%B1%D8%AD%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B3%D9%86%D8%A9%20%D9%84%D9%84%D9%83%D8%B1%D9%85%D8%A7%D9%86%D9%8A%2020.mp3" length="71093452" type="audio/mpeg"/>
+      <guid isPermaLink="false">01_20200318_20200318_1549-ep20</guid>
+      <pubDate>Mon, 06 Apr 2020 12:00:00 +0000</pubDate>
+      <itunes:episode>20</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>شرح كتاب السنة للكرماني 21</title>
+      <description>الحلقة 21 من شرح السنة للكرماني - الشيخ شكري بن عثمان</description>
+      <enclosure url="https://archive.org/download/01_20200318_20200318_1549/%D8%B4%D8%B1%D8%AD%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B3%D9%86%D8%A9%20%D9%84%D9%84%D9%83%D8%B1%D9%85%D8%A7%D9%86%D9%8A%2021.mp3" length="61970841" type="audio/mpeg"/>
+      <guid isPermaLink="false">01_20200318_20200318_1549-ep21</guid>
+      <pubDate>Tue, 07 Apr 2020 12:00:00 +0000</pubDate>
+      <itunes:episode>21</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>شرح كتاب السنة للكرماني 22</title>
+      <description>الحلقة 22 من شرح السنة للكرماني - الشيخ شكري بن عثمان</description>
+      <enclosure url="https://archive.org/download/01_20200318_20200318_1549/%D8%B4%D8%B1%D8%AD%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B3%D9%86%D8%A9%20%D9%84%D9%84%D9%83%D8%B1%D9%85%D8%A7%D9%86%D9%8A%2022.mp3" length="56308531" type="audio/mpeg"/>
+      <guid isPermaLink="false">01_20200318_20200318_1549-ep22</guid>
+      <pubDate>Wed, 08 Apr 2020 12:00:00 +0000</pubDate>
+      <itunes:episode>22</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>شرح كتاب السنة للكرماني 23</title>
+      <description>الحلقة 23 من شرح السنة للكرماني - الشيخ شكري بن عثمان</description>
+      <enclosure url="https://archive.org/download/01_20200318_20200318_1549/%D8%B4%D8%B1%D8%AD%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B3%D9%86%D8%A9%20%D9%84%D9%84%D9%83%D8%B1%D9%85%D8%A7%D9%86%D9%8A%2023.mp3" length="49597644" type="audio/mpeg"/>
+      <guid isPermaLink="false">01_20200318_20200318_1549-ep23</guid>
+      <pubDate>Thu, 09 Apr 2020 12:00:00 +0000</pubDate>
+      <itunes:episode>23</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>شرح كتاب السنة للكرماني 24</title>
+      <description>الحلقة 24 من شرح السنة للكرماني - الشيخ شكري بن عثمان</description>
+      <enclosure url="https://archive.org/download/01_20200318_20200318_1549/%D8%B4%D8%B1%D8%AD%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B3%D9%86%D8%A9%20%D9%84%D9%84%D9%83%D8%B1%D9%85%D8%A7%D9%86%D9%8A%2024.mp3" length="65745715" type="audio/mpeg"/>
+      <guid isPermaLink="false">01_20200318_20200318_1549-ep24</guid>
+      <pubDate>Fri, 10 Apr 2020 12:00:00 +0000</pubDate>
+      <itunes:episode>24</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>شرح كتاب السنة للكرماني 25</title>
+      <description>الحلقة 25 من شرح السنة للكرماني - الشيخ شكري بن عثمان</description>
+      <enclosure url="https://archive.org/download/01_20200318_20200318_1549/%D8%B4%D8%B1%D8%AD%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B3%D9%86%D8%A9%20%D9%84%D9%84%D9%83%D8%B1%D9%85%D8%A7%D9%86%D9%8A%2025.mp3" length="66584576" type="audio/mpeg"/>
+      <guid isPermaLink="false">01_20200318_20200318_1549-ep25</guid>
+      <pubDate>Sat, 11 Apr 2020 12:00:00 +0000</pubDate>
+      <itunes:episode>25</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>شرح كتاب السنة للكرماني 26</title>
+      <description>الحلقة 26 من شرح السنة للكرماني - الشيخ شكري بن عثمان</description>
+      <enclosure url="https://archive.org/download/01_20200318_20200318_1549/%D8%B4%D8%B1%D8%AD%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B3%D9%86%D8%A9%20%D9%84%D9%84%D9%83%D8%B1%D9%85%D8%A7%D9%86%D9%8A%2026.mp3" length="53057945" type="audio/mpeg"/>
+      <guid isPermaLink="false">01_20200318_20200318_1549-ep26</guid>
+      <pubDate>Sun, 12 Apr 2020 12:00:00 +0000</pubDate>
+      <itunes:episode>26</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>شرح كتاب السنة للكرماني 27</title>
+      <description>الحلقة 27 من شرح السنة للكرماني - الشيخ شكري بن عثمان</description>
+      <enclosure url="https://archive.org/download/01_20200318_20200318_1549/%D8%B4%D8%B1%D8%AD%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B3%D9%86%D8%A9%20%D9%84%D9%84%D9%83%D8%B1%D9%85%D8%A7%D9%86%D9%8A%2027.mp3" length="53582233" type="audio/mpeg"/>
+      <guid isPermaLink="false">01_20200318_20200318_1549-ep27</guid>
+      <pubDate>Mon, 13 Apr 2020 12:00:00 +0000</pubDate>
+      <itunes:episode>27</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>شرح كتاب السنة للكرماني 28</title>
+      <description>الحلقة 28 من شرح السنة للكرماني - الشيخ شكري بن عثمان</description>
+      <enclosure url="https://archive.org/download/01_20200318_20200318_1549/%D8%B4%D8%B1%D8%AD%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B3%D9%86%D8%A9%20%D9%84%D9%84%D9%83%D8%B1%D9%85%D8%A7%D9%86%D9%8A%2028.mp3" length="55574528" type="audio/mpeg"/>
+      <guid isPermaLink="false">01_20200318_20200318_1549-ep28</guid>
+      <pubDate>Tue, 14 Apr 2020 12:00:00 +0000</pubDate>
+      <itunes:episode>28</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>شرح كتاب السنة للكرماني 29</title>
+      <description>الحلقة 29 من شرح السنة للكرماني - الشيخ شكري بن عثمان</description>
+      <enclosure url="https://archive.org/download/01_20200318_20200318_1549/%D8%B4%D8%B1%D8%AD%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B3%D9%86%D8%A9%20%D9%84%D9%84%D9%83%D8%B1%D9%85%D8%A7%D9%86%D9%8A%2029.mp3" length="52428800" type="audio/mpeg"/>
+      <guid isPermaLink="false">01_20200318_20200318_1549-ep29</guid>
+      <pubDate>Wed, 15 Apr 2020 12:00:00 +0000</pubDate>
+      <itunes:episode>29</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>شرح كتاب السنة للكرماني 30</title>
+      <description>الحلقة 30 من شرح السنة للكرماني - الشيخ شكري بن عثمان</description>
+      <enclosure url="https://archive.org/download/01_20200318_20200318_1549/%D8%B4%D8%B1%D8%AD%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B3%D9%86%D8%A9%20%D9%84%D9%84%D9%83%D8%B1%D9%85%D8%A7%D9%86%D9%8A%2030.mp3" length="55784243" type="audio/mpeg"/>
+      <guid isPermaLink="false">01_20200318_20200318_1549-ep30</guid>
+      <pubDate>Thu, 16 Apr 2020 12:00:00 +0000</pubDate>
+      <itunes:episode>30</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>شرح كتاب السنة للكرماني 31</title>
+      <description>الحلقة 31 من شرح السنة للكرماني - الشيخ شكري بن عثمان</description>
+      <enclosure url="https://archive.org/download/01_20200318_20200318_1549/%D8%B4%D8%B1%D8%AD%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B3%D9%86%D8%A9%20%D9%84%D9%84%D9%83%D8%B1%D9%85%D8%A7%D9%86%D9%8A%2031.mp3" length="62809702" type="audio/mpeg"/>
+      <guid isPermaLink="false">01_20200318_20200318_1549-ep31</guid>
+      <pubDate>Fri, 17 Apr 2020 12:00:00 +0000</pubDate>
+      <itunes:episode>31</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>شرح كتاب السنة للكرماني 32</title>
+      <description>الحلقة 32 من شرح السنة للكرماني - الشيخ شكري بن عثمان</description>
+      <enclosure url="https://archive.org/download/01_20200318_20200318_1549/%D8%B4%D8%B1%D8%AD%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B3%D9%86%D8%A9%20%D9%84%D9%84%D9%83%D8%B1%D9%85%D8%A7%D9%86%D9%8A%2032.mp3" length="66689433" type="audio/mpeg"/>
+      <guid isPermaLink="false">01_20200318_20200318_1549-ep32</guid>
+      <pubDate>Sat, 18 Apr 2020 12:00:00 +0000</pubDate>
+      <itunes:episode>32</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>شرح كتاب السنة للكرماني 33</title>
+      <description>الحلقة 33 من شرح السنة للكرماني - الشيخ شكري بن عثمان</description>
+      <enclosure url="https://archive.org/download/01_20200318_20200318_1549/%D8%B4%D8%B1%D8%AD%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B3%D9%86%D8%A9%20%D9%84%D9%84%D9%83%D8%B1%D9%85%D8%A7%D9%86%D9%8A%2033.mp3" length="69520588" type="audio/mpeg"/>
+      <guid isPermaLink="false">01_20200318_20200318_1549-ep33</guid>
+      <pubDate>Sun, 19 Apr 2020 12:00:00 +0000</pubDate>
+      <itunes:episode>33</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>شرح كتاب السنة للكرماني 34</title>
+      <description>الحلقة 34 من شرح السنة للكرماني - الشيخ شكري بن عثمان</description>
+      <enclosure url="https://archive.org/download/01_20200318_20200318_1549/%D8%B4%D8%B1%D8%AD%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B3%D9%86%D8%A9%20%D9%84%D9%84%D9%83%D8%B1%D9%85%D8%A7%D9%86%D9%8A%2034.mp3" length="65431142" type="audio/mpeg"/>
+      <guid isPermaLink="false">01_20200318_20200318_1549-ep34</guid>
+      <pubDate>Mon, 20 Apr 2020 12:00:00 +0000</pubDate>
+      <itunes:episode>34</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>شرح كتاب السنة للكرماني 35</title>
+      <description>الحلقة 35 من شرح السنة للكرماني - الشيخ شكري بن عثمان</description>
+      <enclosure url="https://archive.org/download/01_20200318_20200318_1549/%D8%B4%D8%B1%D8%AD%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B3%D9%86%D8%A9%20%D9%84%D9%84%D9%83%D8%B1%D9%85%D8%A7%D9%86%D9%8A%2035.mp3" length="68472012" type="audio/mpeg"/>
+      <guid isPermaLink="false">01_20200318_20200318_1549-ep35</guid>
+      <pubDate>Tue, 21 Apr 2020 12:00:00 +0000</pubDate>
+      <itunes:episode>35</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>شرح كتاب السنة للكرماني 36</title>
+      <description>الحلقة 36 من شرح السنة للكرماني - الشيخ شكري بن عثمان</description>
+      <enclosure url="https://archive.org/download/01_20200318_20200318_1549/%D8%B4%D8%B1%D8%AD%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B3%D9%86%D8%A9%20%D9%84%D9%84%D9%83%D8%B1%D9%85%D8%A7%D9%86%D9%8A%2036.mp3" length="67108864" type="audio/mpeg"/>
+      <guid isPermaLink="false">01_20200318_20200318_1549-ep36</guid>
+      <pubDate>Wed, 22 Apr 2020 12:00:00 +0000</pubDate>
+      <itunes:episode>36</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>شرح كتاب السنة للكرماني 37</title>
+      <description>الحلقة 37 من شرح السنة للكرماني - الشيخ شكري بن عثمان</description>
+      <enclosure url="https://archive.org/download/01_20200318_20200318_1549/%D8%B4%D8%B1%D8%AD%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B3%D9%86%D8%A9%20%D9%84%D9%84%D9%83%D8%B1%D9%85%D8%A7%D9%86%D9%8A%2037.mp3" length="57986252" type="audio/mpeg"/>
+      <guid isPermaLink="false">01_20200318_20200318_1549-ep37</guid>
+      <pubDate>Thu, 23 Apr 2020 12:00:00 +0000</pubDate>
+      <itunes:episode>37</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>شرح كتاب السنة للكرماني 38</title>
+      <description>الحلقة 38 من شرح السنة للكرماني - الشيخ شكري بن عثمان</description>
+      <enclosure url="https://archive.org/download/01_20200318_20200318_1549/%D8%B4%D8%B1%D8%AD%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B3%D9%86%D8%A9%20%D9%84%D9%84%D9%83%D8%B1%D9%85%D8%A7%D9%86%D9%8A%2038.mp3" length="76860620" type="audio/mpeg"/>
+      <guid isPermaLink="false">01_20200318_20200318_1549-ep38</guid>
+      <pubDate>Fri, 24 Apr 2020 12:00:00 +0000</pubDate>
+      <itunes:episode>38</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>شرح كتاب السنة للكرماني 39</title>
+      <description>الحلقة 39 من شرح السنة للكرماني - الشيخ شكري بن عثمان</description>
+      <enclosure url="https://archive.org/download/01_20200318_20200318_1549/%D8%B4%D8%B1%D8%AD%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B3%D9%86%D8%A9%20%D9%84%D9%84%D9%83%D8%B1%D9%85%D8%A7%D9%86%D9%8A%2039.mp3" length="63438848" type="audio/mpeg"/>
+      <guid isPermaLink="false">01_20200318_20200318_1549-ep39</guid>
+      <pubDate>Sat, 25 Apr 2020 12:00:00 +0000</pubDate>
+      <itunes:episode>39</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>شرح كتاب السنة للكرماني 40</title>
+      <description>الحلقة 40 من شرح السنة للكرماني - الشيخ شكري بن عثمان</description>
+      <enclosure url="https://archive.org/download/01_20200318_20200318_1549/%D8%B4%D8%B1%D8%AD%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B3%D9%86%D8%A9%20%D9%84%D9%84%D9%83%D8%B1%D9%85%D8%A7%D9%86%D9%8A%2040.mp3" length="53477376" type="audio/mpeg"/>
+      <guid isPermaLink="false">01_20200318_20200318_1549-ep40</guid>
+      <pubDate>Sun, 26 Apr 2020 12:00:00 +0000</pubDate>
+      <itunes:episode>40</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>شرح كتاب السنة للكرماني 41</title>
+      <description>الحلقة 41 من شرح السنة للكرماني - الشيخ شكري بن عثمان</description>
+      <enclosure url="https://archive.org/download/01_20200318_20200318_1549/%D8%B4%D8%B1%D8%AD%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B3%D9%86%D8%A9%20%D9%84%D9%84%D9%83%D8%B1%D9%85%D8%A7%D9%86%D9%8A%2041.mp3" length="58195968" type="audio/mpeg"/>
+      <guid isPermaLink="false">01_20200318_20200318_1549-ep41</guid>
+      <pubDate>Mon, 27 Apr 2020 12:00:00 +0000</pubDate>
+      <itunes:episode>41</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>شرح كتاب السنة للكرماني 42</title>
+      <description>الحلقة 42 من شرح السنة للكرماني - الشيخ شكري بن عثمان</description>
+      <enclosure url="https://archive.org/download/01_20200318_20200318_1549/%D8%B4%D8%B1%D8%AD%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B3%D9%86%D8%A9%20%D9%84%D9%84%D9%83%D8%B1%D9%85%D8%A7%D9%86%D9%8A%2042.mp3" length="58195968" type="audio/mpeg"/>
+      <guid isPermaLink="false">01_20200318_20200318_1549-ep42</guid>
+      <pubDate>Tue, 28 Apr 2020 12:00:00 +0000</pubDate>
+      <itunes:episode>42</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>شرح كتاب السنة للكرماني 43</title>
+      <description>الحلقة 43 من شرح السنة للكرماني - الشيخ شكري بن عثمان</description>
+      <enclosure url="https://archive.org/download/01_20200318_20200318_1549/%D8%B4%D8%B1%D8%AD%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B3%D9%86%D8%A9%20%D9%84%D9%84%D9%83%D8%B1%D9%85%D8%A7%D9%86%D9%8A%2043.mp3" length="65326284" type="audio/mpeg"/>
+      <guid isPermaLink="false">01_20200318_20200318_1549-ep43</guid>
+      <pubDate>Wed, 29 Apr 2020 12:00:00 +0000</pubDate>
+      <itunes:episode>43</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>شرح كتاب السنة للكرماني 44</title>
+      <description>الحلقة 44 من شرح السنة للكرماني - الشيخ شكري بن عثمان</description>
+      <enclosure url="https://archive.org/download/01_20200318_20200318_1549/%D8%B4%D8%B1%D8%AD%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B3%D9%86%D8%A9%20%D9%84%D9%84%D9%83%D8%B1%D9%85%D8%A7%D9%86%D9%8A%2044.mp3" length="74763468" type="audio/mpeg"/>
+      <guid isPermaLink="false">01_20200318_20200318_1549-ep44</guid>
+      <pubDate>Thu, 30 Apr 2020 12:00:00 +0000</pubDate>
+      <itunes:episode>44</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>شرح كتاب السنة للكرماني 45</title>
+      <description>الحلقة 45 من شرح السنة للكرماني - الشيخ شكري بن عثمان</description>
+      <enclosure url="https://archive.org/download/01_20200318_20200318_1549/%D8%B4%D8%B1%D8%AD%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B3%D9%86%D8%A9%20%D9%84%D9%84%D9%83%D8%B1%D9%85%D8%A7%D9%86%D9%8A%2045.mp3" length="63858278" type="audio/mpeg"/>
+      <guid isPermaLink="false">01_20200318_20200318_1549-ep45</guid>
+      <pubDate>Fri, 01 May 2020 12:00:00 +0000</pubDate>
+      <itunes:episode>45</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>شرح كتاب السنة للكرماني 46</title>
+      <description>الحلقة 46 من شرح السنة للكرماني - الشيخ شكري بن عثمان</description>
+      <enclosure url="https://archive.org/download/01_20200318_20200318_1549/%D8%B4%D8%B1%D8%AD%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B3%D9%86%D8%A9%20%D9%84%D9%84%D9%83%D8%B1%D9%85%D8%A7%D9%86%D9%8A%2046.mp3" length="86192947" type="audio/mpeg"/>
+      <guid isPermaLink="false">01_20200318_20200318_1549-ep46</guid>
+      <pubDate>Sat, 02 May 2020 12:00:00 +0000</pubDate>
+      <itunes:episode>46</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>شرح كتاب السنة للكرماني 47</title>
+      <description>الحلقة 47 من شرح السنة للكرماني - الشيخ شكري بن عثمان</description>
+      <enclosure url="https://archive.org/download/01_20200318_20200318_1549/%D8%B4%D8%B1%D8%AD%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B3%D9%86%D8%A9%20%D9%84%D9%84%D9%83%D8%B1%D9%85%D8%A7%D9%86%D9%8A%2047.mp3" length="78957772" type="audio/mpeg"/>
+      <guid isPermaLink="false">01_20200318_20200318_1549-ep47</guid>
+      <pubDate>Sun, 03 May 2020 12:00:00 +0000</pubDate>
+      <itunes:episode>47</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>شرح كتاب السنة للكرماني 48</title>
+      <description>الحلقة 48 من شرح السنة للكرماني - الشيخ شكري بن عثمان</description>
+      <enclosure url="https://archive.org/download/01_20200318_20200318_1549/%D8%B4%D8%B1%D8%AD%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B3%D9%86%D8%A9%20%D9%84%D9%84%D9%83%D8%B1%D9%85%D8%A7%D9%86%D9%8A%2048.mp3" length="82627788" type="audio/mpeg"/>
+      <guid isPermaLink="false">01_20200318_20200318_1549-ep48</guid>
+      <pubDate>Mon, 04 May 2020 12:00:00 +0000</pubDate>
+      <itunes:episode>48</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+    <item>
+      <title>شرح كتاب السنة للكرماني 49</title>
+      <description>الحلقة 49 من شرح السنة للكرماني - الشيخ شكري بن عثمان</description>
+      <enclosure url="https://archive.org/download/01_20200318_20200318_1549/%D8%B4%D8%B1%D8%AD%20%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B3%D9%86%D8%A9%20%D9%84%D9%84%D9%83%D8%B1%D9%85%D8%A7%D9%86%D9%8A%2049.mp3" length="63648563" type="audio/mpeg"/>
+      <guid isPermaLink="false">01_20200318_20200318_1549-ep49</guid>
+      <pubDate>Tue, 05 May 2020 12:00:00 +0000</pubDate>
+      <itunes:episode>49</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3600</itunes:duration>
+    </item>
+  </channel>
+</rss>
